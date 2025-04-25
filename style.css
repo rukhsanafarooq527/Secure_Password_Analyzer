@@ -1,0 +1,16 @@
+[data-testid="stAppViewContainer"] {
+    background-color: #cbe2fc;
+}
+
+
+/* style.css */
+
+.logo-icon {
+    position: fixed;
+    bottom: 20px; /* Neeche se distance */
+    right: 20px;  /* Right side se distance */
+    width: 60px;  /* Image ka size */
+    height: auto;
+    z-index: 9999; /* Sab se upar dikhane ke liye */
+    opacity: 0.8;  /* Thoda transparent look (optional) */
+}
